@@ -14,4 +14,4 @@ def merge_sort(arr):
     return res + L[i:] + R[j:]
 
 
-print(merge_sort([42, 43, 38, 100,10]))
+print(merge_sort([70,83,56,23,75]))
